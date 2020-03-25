@@ -9,5 +9,5 @@ spring:
     database-platform: org.hibernate.dialect.PostgreSQLDialect
     generate-ddl: false
     hibernate:
-      ddl-auto: create_drop
+      ddl-auto: create
     show-sql: false  
